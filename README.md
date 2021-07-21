@@ -1,4 +1,4 @@
 # Q_A-simple
-simple questions from interviews
-1.Temperature Tracker
-2.Repeatatiuon of characters
+simple questions from interviews\n
+1.Temperature Tracker\n
+2.Repeatatiuon of characters\n
